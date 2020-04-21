@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration-file>
+	<database>
+		<user>root</user>
+
+		<password>rootrootroot</password>
+		<db-url>jdbc:mysql://aarc9cin3z08cw.clcjwswdswyh.us-east-2.rds.amazonaws.com:3306/aarc9cin3z08cw?useSSL=false
+		</db-url>
+
+		<!-- <db-url>jdbc:mysql://aa1arb2i67pp0c7.clcjwswdswyh.us-east-2.rds.amazonaws.com:3306/aa1arb2i67pp0c7?useSSL=false</db-url> 
+			<password>root</password> <db-url>jdbc:mysql://localhost:3306/psych?useSSL=false</db-url> -->
+
+	</database>
+</configuration-file>
